@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @EXQLVR06
+- 👀 I’m interested in Nintendo Switch...
+- 🌱 I’m currently learning Java...
+- 📫 How to reach me: exequiel.vr06@gmail.com...
+
+<!---
+EXQLVR06/EXQLVR06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
